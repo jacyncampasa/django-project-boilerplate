@@ -1,0 +1,5 @@
+*.sw[opqrst]
+*.vim
+*.pyc
+py/
+tmp/
